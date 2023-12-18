@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="StockRoom.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+		<StockRoom.Properties.Settings>
+            <setting name="DatabaseServerIP" serializeAs="String">
+                <value>192.168.100.2</value>
+            </setting>
+            <setting name="DatabaseUsername" serializeAs="String">
+                <value>Henko</value>
+            </setting>
+            <setting name="DatabasePassword" serializeAs="String">
+                <value>Zutoonoqu121@#</value>
+            </setting>
+            <setting name="SAPLocation" serializeAs="String">
+                <value>SBK_DFM_Technologies_Pty_Ltd</value>
+            </setting>
+            <setting name="UsersLocation" serializeAs="String">
+                <value>DFMRMAStatus</value>
+            </setting>
+        </StockRoom.Properties.Settings>
+    </userSettings>
+</configuration>
